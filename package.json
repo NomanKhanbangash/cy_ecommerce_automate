@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/bluebird": "^3.5.42",
     "cypress": "^14.1.0",
     "cypress-xpath": "^2.0.1",
     "multiple-cucumber-html-reporter": "^3.9.2"

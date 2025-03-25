@@ -17,6 +17,6 @@ Feature: Search and Add Product to Cart
         When Proceed to checkout
         Examples:
             | Email              | Password    |
-            | tech77@gmail.com  | Testing@123 |
+            | Test4455@gmail.com  | Testing@123 |
 
 
